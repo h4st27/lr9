@@ -22,7 +22,6 @@ float y = 2;
 	case 5: cout << "\n17.00 Похід до спортзали\n"; break;
 	case 6: cout << "\n11.00 Ділова зустріч\n"; break;
 	case 7: cout << "\nНа цей день нічого не заплановано\n"; break;
-	default: cout << "\nТакого дня тижня не існує\n"; break;
 	}
 //коментар
 
